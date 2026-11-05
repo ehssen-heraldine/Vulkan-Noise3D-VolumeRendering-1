@@ -1,5 +1,5 @@
 ## Transport Tunnel : 
-### A Vulkan powered volume rendering application, creating an experience of transport through an implicit tunnel, textured with 3D Gradient Noise.
+A Vulkan-powered application that simulates flight through a volume-rendered nebula. The simulation places the observer inside an implicit tunnel that defines the spatial domain in which 3D gradient noise is evaluated.
 
 <br>
 
